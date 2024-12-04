@@ -1,0 +1,18 @@
+# Quartus temporary files
+db/
+*.qws
+*.rpt
+*.sdf
+*.pof
+*.sof
+
+# Output files
+output_files/
+*.eda/
+
+# Simulation outputs
+sim/
+
+# Other temporary files
+*.bak
+*.tmp

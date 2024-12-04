@@ -1,0 +1,139 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/QuartusProj/MipsProj/simulation/modelsim
+vControlUnit
+Z1 DXx6 sv_std 3 std 0 22 AD7iAPLo6nTIKk<N0eo=D3
+Z2 !s110 1732951102
+!i10b 1
+!s100 09UC?WXUaF<fP_mc]PYB71
+IciB1BlVKX;OUzffk1nEiL3
+Z3 VDg1SIo80bB@j0V0VzS_@n1
+!s105 ControlUnit_sv_unit
+S1
+R0
+w1732948457
+8C:/QuartusProj/MipsProj/ControlUnit.sv
+FC:/QuartusProj/MipsProj/ControlUnit.sv
+L0 1
+Z4 OV;L;10.5b;63
+r1
+!s85 0
+31
+Z5 !s108 1732951102.000000
+!s107 C:/QuartusProj/MipsProj/ControlUnit.sv|
+!s90 -reportprogress|300|-sv|-work|work|+incdir+C:/QuartusProj/MipsProj|C:/QuartusProj/MipsProj/ControlUnit.sv|
+!i113 1
+Z6 o-sv -work work
+Z7 !s92 -sv -work work +incdir+C:/QuartusProj/MipsProj
+Z8 tCvgOpt 0
+n@control@unit
+vprogramCounter
+R1
+R2
+!i10b 1
+!s100 o:WiiQj6WNAmLJeF03VgQ1
+Ice^14<D7cGebedX^0l?Vo3
+R3
+!s105 programCounter_sv_unit
+S1
+R0
+w1732947065
+8C:/QuartusProj/MipsProj/programCounter.sv
+FC:/QuartusProj/MipsProj/programCounter.sv
+L0 1
+R4
+r1
+!s85 0
+31
+R5
+!s107 C:/QuartusProj/MipsProj/programCounter.sv|
+!s90 -reportprogress|300|-sv|-work|work|+incdir+C:/QuartusProj/MipsProj|C:/QuartusProj/MipsProj/programCounter.sv|
+!i113 1
+R6
+R7
+R8
+nprogram@counter
+vSignExtend
+R1
+R2
+!i10b 1
+!s100 o_Zm^a;0RFZeY@TQGgF5X1
+I>VL?DLVjf=P@z3eHzbGc53
+R3
+!s105 SignExtend_sv_unit
+S1
+R0
+w1732660787
+8C:/QuartusProj/MipsProj/SignExtend.sv
+FC:/QuartusProj/MipsProj/SignExtend.sv
+L0 3
+R4
+r1
+!s85 0
+31
+R5
+!s107 C:/QuartusProj/MipsProj/SignExtend.sv|
+!s90 -reportprogress|300|-sv|-work|work|+incdir+C:/QuartusProj/MipsProj|C:/QuartusProj/MipsProj/SignExtend.sv|
+!i113 1
+R6
+R7
+R8
+n@sign@extend
+vSL2
+R1
+R2
+!i10b 1
+!s100 7JP0oHh1ckZi>aMa]oR7K0
+In]3JR[AgH56O17HYA@EPo0
+R3
+!s105 SL2_sv_unit
+S1
+R0
+w1732947853
+8C:/QuartusProj/MipsProj/SL2.sv
+FC:/QuartusProj/MipsProj/SL2.sv
+L0 1
+R4
+r1
+!s85 0
+31
+!s108 1732951101.000000
+!s107 C:/QuartusProj/MipsProj/SL2.sv|
+!s90 -reportprogress|300|-sv|-work|work|+incdir+C:/QuartusProj/MipsProj|C:/QuartusProj/MipsProj/SL2.sv|
+!i113 1
+R6
+R7
+R8
+n@s@l2
+vtop
+R1
+R2
+!i10b 1
+!s100 jEN_9`TOFnbM[2FJ5_]ia0
+I>k1:H]JoIdFRifbQc194C1
+R3
+!s105 top_sv_unit
+S1
+R0
+w1732948515
+8C:/QuartusProj/MipsProj/top.sv
+FC:/QuartusProj/MipsProj/top.sv
+L0 1
+R4
+r1
+!s85 0
+31
+R5
+!s107 C:/QuartusProj/MipsProj/top.sv|
+!s90 -reportprogress|300|-sv|-work|work|+incdir+C:/QuartusProj/MipsProj|C:/QuartusProj/MipsProj/top.sv|
+!i113 1
+R6
+R7
+R8

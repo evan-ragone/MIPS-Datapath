@@ -1,0 +1,73 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/QuartusProj/MipsProj/simulation/qsim
+vhard_block
+!s110 1733337958
+!i10b 1
+!s100 ^cgY6<OQ6K1Kcd=cC3mim0
+IP09HF7Be]ZW;P5V]@M;WL1
+Z1 VDg1SIo80bB@j0V0VzS_@n1
+R0
+w1733337948
+Z2 8MipsDatapath.vo
+Z3 FMipsDatapath.vo
+L0 439172
+Z4 OV;L;10.5b;63
+r1
+!s85 0
+31
+!s108 1733337953.000000
+Z5 !s107 MipsDatapath.vo|
+Z6 !s90 -work|work|MipsDatapath.vo|
+!i113 1
+Z7 o-work work
+Z8 tCvgOpt 0
+vtop
+Z9 !s110 1733340091
+!i10b 1
+!s100 A=A`gDI]B<d@4TdMKBF]h1
+ICBkY;4GOXhbJ85_>]cmG92
+R1
+R0
+w1733340088
+R2
+R3
+L0 32
+R4
+r1
+!s85 0
+31
+!s108 1733340089.000000
+R5
+R6
+!i113 1
+R7
+R8
+vtop_vlg_vec_tst
+R9
+!i10b 1
+!s100 Bba]K]1>IjAVmI3:Q^60R1
+I`3Ti2A3SKZfjgXIWYCUie0
+R1
+R0
+w1733340084
+8Waveform.vwf.vt
+FWaveform.vwf.vt
+L0 30
+R4
+r1
+!s85 0
+31
+!s108 1733340091.000000
+!s107 Waveform.vwf.vt|
+!s90 -work|work|Waveform.vwf.vt|
+!i113 1
+R7
+R8
